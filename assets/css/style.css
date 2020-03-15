@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(245, 229, 194);
+    background-size: contain;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.jumbotron {
+    font-family: 'Merriweather Sans', sans-serif;
+    background-color: rgb(211, 223, 168); 
+    color: rgb(82, 49, 22);
+    margin-top: 15px;
