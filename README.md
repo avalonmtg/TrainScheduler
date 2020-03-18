@@ -17,6 +17,9 @@ In this assignment, you'll create a train schedule application that incorporates
   * Code this app to calculate when the next train will arrive; this should be relative to the current time.
   
   * Users from many different machines must be able to view same train times.
+
+  Site: https://avalonmtg.github.io/TrainScheduler/
+
   
 
 ​
